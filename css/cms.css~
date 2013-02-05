@@ -1,0 +1,144 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+
+.topmenu {
+	font-family: "Myriad","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 12px;
+	font-weight:normal;
+	color: #000000;
+	padding:10px;
+	text-decoration: none;
+	}
+
+.topmenu:link {
+	text-decoration: none;
+	color: #000000;
+	
+}
+.topmenu:hover {
+	text-decoration: none;
+	color: #fe0000;
+	
+}
+
+
+.menu {
+	font-family: "Myriad","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 11px;
+	font-weight:normal;
+	color: #ffffff;
+	padding:1px;
+	text-decoration: none;
+}
+.menu:link {
+	text-decoration: none;
+	color: #ffffff;
+}
+.menu:hover {
+	text-decoration: none;
+	color:#fe0000;
+}
+.menu:active {
+	text-decoration: none;
+	color:#FFFF00;
+}
+.yellowmenu {
+	font-family: "Arial","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 12px;
+	font-weight:normal;
+	color: #ff0000;
+	
+}
+.yellowmenu:link {
+	text-decoration: none;
+	color: #ff0000;
+}
+.yellowmenu:hover {
+	text-decoration: none;
+	color:#000000;
+}
+.black {
+	font-family: "Myriad","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 16px;
+	font-weight:normal;
+	color: #000000;
+	padding:1px;
+}
+.white {
+	font-family: "Myriad","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 18px;
+	font-weight:normal;
+	color: #ffffff;
+}
+.text {
+	font-family: "Arial","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 12px;
+	font-weight:normal;
+	color: #ffffff;
+}
+.table {
+padding:2px;
+}
+.navigator {
+padding:1px;
+}
+
+.phone {
+	font-family: "Myriad","Myriad Pro","Lucida Grande","Lucida Sans Unicode",Verdana;
+	font-size: 12px;
+	font-weight:normal;
+	color: #000000;
+	padding:1px;
+}
+.content {
+	border:1px;
+}
+
+
+
+.tabs{
+	
+	background-image:url(../tab.jpg) no-repeat;
+	font-size:12px;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:35px;
+	width:100%;
+	border-right:1px;
+	text-decoration: none;
+
+
+}
+.mainmenu{
+	background-image:url(../tab.jpg) no-repeat;
+	border:1px solid:#000;
+	border-bottom:1px;
+	font-size:12px;
+	padding-right:15px;
+	padding-left:15px;
+	padding-top:20px
+	margin-bottom:45px;
+	width:100%;
+}
+
+
+.mainmenu:hover {
+	background-color:#999999;
+	color:#ffffff;
+
+}
+
+
+.foot{
+	font-size:12px;
+	color:#000000;
+	text-decoration: none;
+	text-transform: none;
+
+
+}
